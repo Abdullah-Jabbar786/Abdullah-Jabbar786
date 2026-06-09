@@ -28,7 +28,7 @@
 ┃  ↓                                          ┃
 ┃  🤖 AI/ML                                  ┃
 ┃  ↓                                          ┃
-┃  📚 Research & Academia                    ┃
+┃  📚 Research                               ┃
 ┃  ↓                                          ┃
 ┃  📊 Problem Solving                        ┃
 ┃  ↓                                          ┃
