@@ -19,26 +19,72 @@
 
 <div align="center">
 
-```
-┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
-┃                                             ┃
-┃  💻 Full-Stack Development                 ┃
-┃  ↓                                          ┃
-┃  🎮 Game Development                       ┃
-┃  ↓                                          ┃
-┃  🤖 AI/ML Research                         ┃
-┃  ↓                                          ┃
-┃  📊 Problem Solving                        ┃
-┃  ↓                                          ┃
-┃  🔧 System Programming                     ┃
-┃  ↓                                          ┃
-┃  🎨 UI/UX Design                           ┃
-┃                                             ┃
-┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
-```
+<style>
+  @keyframes fadeInOut {
+    0% { opacity: 0; transform: translateY(-10px); }
+    10% { opacity: 1; transform: translateY(0); }
+    40% { opacity: 1; transform: translateY(0); }
+    50% { opacity: 0; transform: translateY(10px); }
+    100% { opacity: 0; transform: translateY(10px); }
+  }
+  
+  @keyframes slideInRight {
+    0% { opacity: 0; transform: translateX(-50px); }
+    15% { opacity: 1; transform: translateX(0); }
+    45% { opacity: 1; transform: translateX(0); }
+    55% { opacity: 0; transform: translateX(50px); }
+    100% { opacity: 0; transform: translateX(50px); }
+  }
+  
+  @keyframes pulse-glow {
+    0%, 100% { text-shadow: 0 0 5px rgba(100, 200, 255, 0.5); }
+    50% { text-shadow: 0 0 20px rgba(100, 200, 255, 1), 0 0 40px rgba(100, 200, 255, 0.7); }
+  }
+  
+  .animated-keywords {
+    font-size: 28px;
+    font-weight: bold;
+    height: 60px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 20px 0;
+    color: #00d4ff;
+    font-family: 'Courier New', monospace;
+    animation: pulse-glow 2s ease-in-out infinite;
+  }
+  
+  .keyword {
+    display: none;
+    animation: fadeInOut 10s ease-in-out infinite;
+  }
+  
+  .keyword:nth-child(1) { display: inline; animation-delay: 0s; }
+  .keyword:nth-child(2) { display: inline; animation-delay: 10s; }
+  .keyword:nth-child(3) { display: inline; animation-delay: 20s; }
+  .keyword:nth-child(4) { display: inline; animation-delay: 30s; }
+  .keyword:nth-child(5) { display: inline; animation-delay: 40s; }
+  .keyword:nth-child(6) { display: inline; animation-delay: 50s; }
+</style>
 
-### 🎯 Key Interests & Expertise:
-> **C++ | JavaScript | Python | Game Dev | Web Dev | Algorithms | Data Structures | Assembly | AI/ML | Database Design | OOP | Clean Code**
+<div class="animated-keywords">
+  <div class="keyword">💻 Full-Stack Development</div>
+  <div class="keyword">🎮 Game Development</div>
+  <div class="keyword">🤖 AI/ML Research</div>
+  <div class="keyword">📊 Problem Solving</div>
+  <div class="keyword">🔧 System Programming</div>
+  <div class="keyword">🎨 UI/UX Design</div>
+</div>
+
+### 🎯 Tech & Skills:
+```
+┌─────────────────────────────────────────────────┐
+│  Languages: C++ • JavaScript • Python • Assembly  │
+│  Frameworks: React • Node.js • Express • Raylib  │
+│  Databases: MySQL • MongoDB • XAMPP              │
+│  Tools: Git • GitHub • VS Code • Linux           │
+└─────────────────────────────────────────────────┘
+```
 
 </div>
 
