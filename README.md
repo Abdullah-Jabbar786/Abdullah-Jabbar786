@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm Abdullah Jabbar!
+# 👋Hey there, I'm Abdullah Jabbar!
 
 <div align="center">
 
@@ -158,7 +158,7 @@ I love learning new technologies, exploring cutting-edge research, and building 
 
 ### Problem Solving
 ✅ Data Structures  
-✅ Algorithm Design & Analysis  
+✅ Algorithm Analysis  
 ✅ LeetCode Problem Solving  
 ✅ System Design  
 
