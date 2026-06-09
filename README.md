@@ -15,6 +15,35 @@
 
 ---
 
+## ✨ What I'm Passionate About
+
+<div align="center">
+
+```
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃                                             ┃
+┃  💻 Full-Stack Development                 ┃
+┃  ↓                                          ┃
+┃  🎮 Game Development                       ┃
+┃  ↓                                          ┃
+┃  🤖 AI/ML Research                         ┃
+┃  ↓                                          ┃
+┃  📊 Problem Solving                        ┃
+┃  ↓                                          ┃
+┃  🔧 System Programming                     ┃
+┃  ↓                                          ┃
+┃  🎨 UI/UX Design                           ┃
+┃                                             ┃
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+```
+
+### 🎯 Key Interests & Expertise:
+> **C++ | JavaScript | Python | Game Dev | Web Dev | Algorithms | Data Structures | Assembly | AI/ML | Database Design | OOP | Clean Code**
+
+</div>
+
+---
+
 ## 🚀 About Me
 
 I'm a **Computer Science student** at **FAST-NUCES, Karachi**, currently in my 4th semester with a passion for building innovative software solutions. I specialize in:
