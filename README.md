@@ -26,7 +26,9 @@
 ┃  ↓                                          ┃
 ┃  🎮 Game Development                       ┃
 ┃  ↓                                          ┃
-┃  🤖 AI/ML Research                         ┃
+┃  🤖 AI/ML                                  ┃
+┃  ↓                                          ┃
+┃  📚 Research & Academia                    ┃
 ┃  ↓                                          ┃
 ┃  📊 Problem Solving                        ┃
 ┃  ↓                                          ┃
@@ -38,7 +40,7 @@
 ```
 
 ### 🎯 Key Interests & Expertise:
-> **C++ | JavaScript | Python | Game Dev | Web Dev | Algorithms | Data Structures | Assembly | AI/ML | Database Design | OOP | Clean Code**
+> **C++ | JavaScript | Python | Game Dev | Web Dev | Algorithms | Data Structures | Assembly | AI/ML | Research Papers | Database Design | OOP | Clean Code**
 
 </div>
 
