@@ -32,15 +32,13 @@
 ┃  ↓                                          ┃
 ┃  📊 Problem Solving                        ┃
 ┃  ↓                                          ┃
-┃  🔧 System Programming                     ┃
-┃  ↓                                          ┃
 ┃  🎨 UI/UX Design                           ┃
 ┃                                             ┃
 ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
 ```
 
 ### 🎯 Key Interests & Expertise:
-> **C++ | JavaScript | Python | Game Dev | Web Dev | Algorithms | Data Structures | Assembly | AI/ML | Research Papers | Database Design | OOP | Clean Code**
+> **C++ | JavaScript | Python | Game Dev | Web Dev | Algorithms | Data Structures | Assembly | AI/ML | Research Papers | Database Design | OOP**
 
 </div>
 
@@ -48,11 +46,10 @@
 
 ## 🚀 About Me
 
-I'm a **Computer Science student** at **FAST-NUCES, Karachi**, currently in my 4th semester with a passion for building innovative software solutions. I specialize in:
+I'm a **Computer Science student** at **FAST-NUCES, Karachi**, currently in my 5th semester with a passion for building innovative software solutions. I specialize in:
 
 - 💻 **Full-Stack Development** - Frontend & Backend technologies
 - 🎮 **Game Development** - C++ with Raylib
-- 🔧 **System Programming** - Assembly Language & Low-level concepts
 - 📊 **Problem Solving** - Data Structures, Algorithms & LeetCode
 - 🎨 **UI/UX Design** - Modern, responsive web interfaces
 - 🤖 **AI/ML Exploration** - Learning research papers and their applications
@@ -183,7 +180,7 @@ I love learning new technologies, exploring cutting-edge research, and building 
 ## 🎓 Education
 
 ### 🏫 **FAST-NUCES, Karachi**
-**BS Computer Science** | *4th Semester (Current)*
+**BS Computer Science** | *5th Semester (Current)*
 
 **Relevant Coursework:**
 - 💻 Object-Oriented Programming (OOP)
@@ -199,7 +196,6 @@ I love learning new technologies, exploring cutting-edge research, and building 
 
 ### Software Development
 ✅ Object-Oriented Design (OOP)  
-✅ Clean Code & Best Practices  
 ✅ Full-Stack Development  
 ✅ Backend Development
 
@@ -266,7 +262,7 @@ Feel free to reach out! I'm always open to discussing projects, sharing ideas, o
 ## 💬 Fun Facts About Me
 
 - 🎮 Built a complete game from scratch using C++ (Space Shooter)
-- ♟️ Love to play chess and analyze games
+- ♟️ Love to play chess
 - 🏏 Avid cricket watcher and enthusiast
 - 📚 Passionate about learning through research papers
 - ☕ Fueled by coffee, creativity, and curiosity
