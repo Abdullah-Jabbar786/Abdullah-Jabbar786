@@ -1,4 +1,4 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrng615c/giphy.gif" width="35px"> Hey there, I'm Abdullah Jabbar!
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrng615c/giphy.gif" width="35px"> Hi, I'm Abdullah Jabbar!
 
 <div align="center">
 
