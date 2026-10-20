@@ -46,7 +46,7 @@
 
 ## 🚀 About Me
 
-I'm a **Computer Science student** at **FAST-NUCES, Karachi**, currently in my 5th semester with a passion for building innovative software solutions. I specialize in:
+I'm a **Computer Science student** at **FAST-NUCES, Karachi**, currently in my **5th semester** with a passion for building innovative software solutions. I specialize in:
 
 - 💻 **Full-Stack Development** - Frontend & Backend technologies
 - 🎮 **Game Development** - C++ with Raylib
@@ -183,12 +183,11 @@ I love learning new technologies, exploring cutting-edge research, and building 
 **BS Computer Science** | *5th Semester (Current)*
 
 **Relevant Coursework:**
-- 💻 Object-Oriented Programming (OOP)
-- 📊 Data Structures & Algorithms
-- 🏗️ Computer Organization & Assembly Language
-- 🖥️ Operating Systems
-- 📈 Software Design & Analysis (SDA)
-- 🤖 Artificial Intelligence
+- 💻 Computer Networks (CN)
+- 📊 Design and Analysis of Algorithms (DAA)
+- 🖥️ Computer Architecture (CA)
+- 🤝 Applied Human-Computer Interaction (AHCI)
+- ✍️ Technical Business Writing (TBW)
 
 ---
 
