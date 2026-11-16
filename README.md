@@ -130,6 +130,14 @@ I love learning new technologies, exploring cutting-edge research, and building 
 
 ---
 
+### 🔍 **CodeSheriff AI - Multi-Agent Code Review System**
+> A multi-agent AI code review system designed to identify security vulnerabilities, performance issues, and code quality problems.
+
+- 🤖 **Tech**: Python, FastAPI, Ollama, CodeLlama 7B, Next.js 14, Tailwind CSS, Recharts
+
+
+---
+
 ### 🍽️ **Taste Trove - Restaurant Website**
 > Premium, responsive restaurant website with modern glassmorphism design
 
