@@ -110,7 +110,7 @@ I love learning new technologies, exploring cutting-edge research, and building 
 > A high-octane 2D arcade game built with professional OOP design in C++ using Raylib
 
 - ⭐ **Tech**: C++11, Raylib, Object-Oriented Programming
-- 🎮 Features: Enemy waves, collision detection, smooth animations
+- 🎮 Features: Enemy waves, collision detection, smooth animations and difficulty levels
 - 📚 Includes complete SDA documentation and design patterns
 - 🏆 Demonstrates real-world OOP implementation
 
