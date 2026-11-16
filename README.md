@@ -138,7 +138,7 @@ I love learning new technologies, exploring cutting-edge research, and building 
 - ⚡ Parallel agent execution using `asyncio.gather` for reviews under 60 seconds
 - 🔐 Security findings mapped to the MITRE CWE taxonomy
 - 📡 Real-time review progress through Server-Sent Events (SSE)
-
+- 📊 Interactive dashboard with radar charts and an annotated code viewer
 ---
 
 ### 🍽️ **Taste Trove - Restaurant Website**
