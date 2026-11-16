@@ -139,6 +139,7 @@ I love learning new technologies, exploring cutting-edge research, and building 
 - 🔐 Security findings mapped to the MITRE CWE taxonomy
 - 📡 Real-time review progress through Server-Sent Events (SSE)
 - 📊 Interactive dashboard with radar charts and an annotated code viewer
+
 ---
 
 ### 🍽️ **Taste Trove - Restaurant Website**
@@ -249,7 +250,6 @@ I love learning new technologies, exploring cutting-edge research, and building 
 
 I'm always interested in:
 - 🚀 **Exciting Projects** - Building cool things together
-- 📖 **Knowledge Sharing** - Learning and teaching
 - 🔗 **Networking** - Connecting with developers and researchers
 - 🤖 **AI/ML Discussions** - Exploring and understanding ML concepts
 
