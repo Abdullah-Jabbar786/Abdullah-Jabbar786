@@ -135,6 +135,7 @@ I love learning new technologies, exploring cutting-edge research, and building 
 
 - 🤖 **Tech**: Python, FastAPI, Ollama, CodeLlama 7B, Next.js 14, Tailwind CSS, Recharts
 - 🔍 Four specialized agents: VulnHunter, ComplexBot, LintMind, and ReviewSynth
+- ⚡ Parallel agent execution using `asyncio.gather` for reviews under 60 seconds
 
 
 ---
