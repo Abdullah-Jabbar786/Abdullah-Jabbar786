@@ -254,7 +254,7 @@ I'm always interested in:
   - 📧 [jabbarabdullah121@gmail.com](mailto:jabbarabdullah121@gmail.com)
   - 🎓 [k240859@nu.edu.pk](mailto:k240859@nu.edu.pk)
 
-Feel free to reach out! I'm always open to discussing projects, sharing ideas, or collaborating on exciting challenges.
+Feel free to reach out! I'm always open to discussing projects, sharing ideas, or collaborating.
 
 ---
 
