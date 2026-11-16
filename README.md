@@ -134,6 +134,7 @@ I love learning new technologies, exploring cutting-edge research, and building 
 > A multi-agent AI code review system designed to identify security vulnerabilities, performance issues, and code quality problems.
 
 - 🤖 **Tech**: Python, FastAPI, Ollama, CodeLlama 7B, Next.js 14, Tailwind CSS, Recharts
+- 🔍 Four specialized agents: VulnHunter, ComplexBot, LintMind, and ReviewSynth
 
 
 ---
