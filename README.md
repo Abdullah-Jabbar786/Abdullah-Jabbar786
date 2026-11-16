@@ -15,7 +15,7 @@
 
 ---
 
-## ✨ What I'm Passionate About
+## ✨ What I'm Passionate About :)
 
 <div align="center">
 
